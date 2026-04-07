@@ -1,0 +1,140 @@
+---
+title: 'Who is the Author? Sampling / Remixing / Open Source'
+author: 'Lev Manovich'
+year: 2002
+type: fulltext
+---
+
+# Who is the Author? Sampling / Remixing / Open Source
+
+New media culture brings with it a number of new models of authorship which all involve different forms of collaboration. Of course, collaborative authorship is not unique to new media: think of medieval cathedrals, traditional painting studios which consisted of  a master and assistants, music orchestras, or contemporary film productions which, like medieval cathedrals, involve thousands of people collaborating over a substantial period of time. In fact, in we think about this historically, we will see collaborative authorship represents a norm rather than exception. In contrast, romantic model of a solitary single author occupies a very small place in the history of human culture. New media, however, offers some new variations on the previous forms of collaborative authorship. In this essay I will look at some of these variations. I will try to consider them not in isolation but in a larger context of contemporary cultural economies. As we will see, new media industries and cultures systematically pioneer new types of authorship, new relationships between producers and consumers, and new distribution models, thus acting as the avant-garde of the culture industry. 
+
+## 1. Collaboration of Different Individuals and/or Groups
+
+The most often discussed new type of authorship associated with new media is collaboration (over the network or in person, in real time or not) between a group of artists to create a new media work / performance / event / “project.” Often, no tangible objects or an even definite event like a performance ever comes out from these collaborations, but this does not matter. People meet people with common interests and start a “project” or a series of “projects.” We can think of this as a “social culture”; we may also note that while the new media culture may not have produced any “masterpieces”, it definitely had a huge impact on how people and organizations communicate. Along with database, navigable space, simulation and interactivity, new cultural forms enabled by new media also include new patterns of social communication. In short, the network-enabled process of collaboration, networking, and exchange is a valuable form of contemporary culture, regardless of whether it results in any “objects” or not.
+
+## 2. Interactivity as Miscommunication Between the Author and the User
+
+In the first part of the 1990s when interactivity was a new term, it was often claimed that an interactive artwork involves collaboration between an author and a user. Is this true? The notion of collaboration assumes some shared understanding and the common goals between the collaborators, but in the case of interactive media these are often absent. After an author designs the work, s/he has no idea about the assumptions and intentions of a particular user. Such a user, therefore, can’t be really called a collaborator of the author. From the other side, a user coming to a new media artwork often also does not know anything about this work, what is supposed to do, what its interface is, etc. For this user, therefore, an author is not really a collaborator. Instead of collaborators, the author and the user are often two total strangers, two aliens which do not share a common communication code. 
+
+While interactivity in new media art often leads to “miscommunication” between the author and the user, commercial culture employs interactive feedback to assure that no miscommunication will take place. It is common for film producers to test a finished edit of a new film before a “focus group.” The responses of the viewers are then used to re–edit the film to improve comprehension of the narrative or to change the ending. In this practice, rather than presenting the users with multiple versions of the narrative, a single version that is considered the most successful is selected. 
+
+## 3. Authorship as Selection from a Menu
+
+I discuss this type of authorship in detail in _The Language of New Media_; here I just want to note that it applies to both professional designers and users. [1] The design process in new media involves selection from various menus of software packages, databases of media assets, etc. Similarly, a user is often made to feel like a “real artist” by allowing her/him to quickly create a professional looking work by selecting from a few menus. The examples of such “authorship by selection” are the Web sites that allow the users to quickly construct a postcard or even a short movie by selecting from a menu of images, clips, and sounds.
+
+Three decades ago, Roland Barthes elegantly defined a cultural text as “a tissue of quotations”: “We know now that a text is not a line of words releasing a single ‘theological’ meaning (the ‘message’ of the Author-God) but a multi-dimensional space in which a variety of writings, none of them original, blend and clash. The text is a tissue of quotations drawn from innumerable centers of culture.” [2] In software-driven production environment, these quotations come not only from the creators’ memories of what they previously saw, read, and heard, but also directly from the databases of media assets, as well as numerous other words that in the case of the World Wide Web are just a click away. 
+
+## 4. Collaboration Between a Company and the Users
+
+When it released the original _Doom_ (1993), id software also released detailed descriptions of game files formats and a game editor, thus encouraging the players to expand the game, creating new levels. Adding to the game became its essential part, with new levels widely available on the Internet for anybody to download. Since _Doom_, such practices became commonplace in computer game industry. Often, the company would include elements designed by the users in a new release. 
+
+With another widely popular game _Sims_ (2001), this type of collaboration reached a new stage. The Web site for the game allows users to upload the characters, the settings, and the narratives they constructed into the common library, as well as download characters, settings, and narratives constructed by others. [3] Soon it turned out that the majority of users do not even play the game but rather use its software to create their own characters and storyboard their adventures. In contrast to earlier examples of such practice – for instance the 1980s _Star Trek_ fans editing their own video tapes by sampling from various _Star Trek_ episodes or writing short stories involving main _Star Trek_ characters – now it came into the central place, being legitimized and encouraged by game producers. 
+
+Another way in which a company can be said to collaborate with the users of its software is by incorporating their suggestions about new features into the new version of the software. This is common practice of many software companies. 
+
+## 5. Collaboration Between the Author and Software
+
+Authoring using Al or AI is the most obvious case of human-software collaboration. The author sets up some general rules, but s/he has no control over the concrete details of the work – these emerge as a result of the interactions of the rules. More generally, we can say that all authorship that uses electronic and computer tools is a collaboration between the author and these tools that make possible certain creative operations and certain ways of thinking while discouraging others. Of course, humans have designed these tools, so it would be more precise to say that the author who uses electronic/ software tools engages in a dialog with the software designers (see #4). 
+
+## 6. Remixing
+
+Remixing originally had a precise and a narrow meaning that gradually became diffused. Although precedents of remixing can be found earlier, it was the introduction of multi-track mixers that made remixing a standard practice. With each element of a song – vocals, drums, etc. – available for separate manipulation, it became possible to “re-mix” the song: change the volume of some tracks or substitute new tracks for the old ounces. Gradually the term became more and more broad, today referring to any reworking of an original musical work(s). 
+
+In his _DJ Culture_ Ulf Poschardt singles out different stages in the evolution of remixing practice. In 1972 DJ Tom Moulton mixed his first disco remixes; as Poschardt points out, they “show a very chaste treatment of the original song. Moulton sought above all a different weighting of the various soundtracks, and worked the rhythmic elements of the disco songs even more clearly and powerfully…Moulton used the various elements of the sixteen or twenty-four track master tapes and remixed them.” [4] By 1987, “DJs started to ask other DJs for remixes” and the treatment of the original material became much more aggressive. For example, “Coldcut used the vocals from Ofra Hanza’s ‘Im Nin Alu’ and contrasted Rakim’s ultra-deep bass voice with her provocatively feminine voice. To this were added techno sounds and a house-inspired remix of a rhythm section that loosened the heavy, sliding beat of the rap piece, making it sound lighter and brighter.” [5] In another example, London DJ Tim Simenon produced a remix of his personal top ten of 1987. Simenon: “We found a common denominator between the songs we wanted to use, and settled on the speed of 114 beats per minute. The tracks of the individual songs were adapted to this beat either by speeding them up or slowing them down.” [6]
+
+In the last few years people started to apply the term “remix” to other media: visual productions, software, literary texts. With electronic music and software serving as the two key reservoirs of new metaphors for the rest of culture today, this expansion of the term is inevitable; one can only wonder why it did not happen earlier. Yet we are left with an interesting paradox: while in the realm of commercial music remixing is officially accepted [7], in other cultural areas it is seen as violating the copyright and therefore as stealing. So, while filmmakers, visual artists, photographers, architects, and Web designers routinely remix already existing works, this is not openly admitted, and no proper terms equivalent to remixing in music exist to describe these practices.
+
+The term that we do have is “appropriation.” However, this never left its original art world context where it was first applied to the works of post-modern artists of the early 1980s based on re-working older photographic images. Consequently, it never achieved the same wide use as “remixing.” Anyway, “remixing” is a better term because it suggests a systematic re-working of a source, the meaning which “appropriation” does not have. And indeed, the original “appropriation artists” such as Richard Prince simply copied the existing image as a whole rather than re-mixing it. As in the case of Duchamp’s famous urinal, the aesthetic effect here is the result of a transfer of a cultural sign from one sphere to another, rather than any modification of a sign.
+
+The only other commonly used term across media is “quoting” but I see it as describing a very different logic than remixing. If remixing implies systematically rearranging the whole text, quoting means inserting some fragments from old text(s) into the new one. Thus, it is more similar to another new fundamental authorship practice that, like remixing, was made possible by electronic technology – sampling. 
+
+## 7. Sampling: New Collage?
+
+According to Ulf Poschardt, “The DJ’s domination of the world started around 1987.” [8] This take-over is closely related to the new freedom in the use of mixing and sampling. That year M/A/R/S released their record “Pump Up the Volume”; as Poschardt points out, “This record, cobbled together from a crazy selection of samples, fundamentally changed the pop world. As if from nowhere, the avant-garde sound collage, unusual for the musical taste of the time, made it to the top of the charts and became the year’s highest-selling 12-inch single in Britain.” [9]
+
+Theorizing immediately after M/A/R/S, Coldcut, Bomn The Bass and S-Xpress made full use of sampling, music critic Andrew Goodwin defined sampling as “the uninhibited use of digital sound recording as a central element of composition. Sampling thus becomes an aesthetic program.” [10] We can say that with sampling technology, the practices of montage and collage that were always central to twentieth century culture, became industrialized. Yet we should be careful in applying the old terms to new technologically driven cultural practices. While the terms “montage” and “collage” regularly pop up in the writings of music theorists from Poschardt to Kodwo Eshun and DJ Spooky, I think these terms that come to us from literary and visual modernism of the early twentieth century do not adequately describe new electronic music. To note just three differences: musical samples are often arranged in loops; the nature of sound allows musicians to mix pre-existent sounds in a variety of ways, from clearly differentiating and contrasting individual samples (thus following the traditional modernist aesthetics of montage/collage), to mixing them into an organic and coherent whole [11]; finally, the electronic musicians often conceive their works beforehand as something that will be remixed, sampled, taken apart and modified. Poschardt: “house (like all other kinds of club music) has relinquished the unity of the song and its inviolability. Of course the creator of a house song thinks at first in terms of his single track, but he also thinks of it in the context of a club evening, into which his track can be inserted at a particular point.” [12]
+
+Last but not least, it is relevant to note here that the revolution in electronic pop music that took place in the second part of the 1980s was paralleled by similar developments in pop visual culture of the same period. The introduction of electronic editing equipment such as switcher, keyer, paintbox, and image store made remixing and sampling a common practice in video production towards the end of the decade; first pioneered in music videos, it later took over the whole visual culture of TV. Other software tools such as Photoshop (1989) had the same effect on the fields of graphic design, commercial illustration, and photography. And, a few years later, World Wide Web redefined an electronic document as a mix of other documents. Remix culture has arrived. 
+
+## 8. Open Source Model
+
+Open Source model is just one among a number of different models of authorship (and ownership) which emerged in software community and which can be applied (or are already being applied) to cultural authorship. The examples of such models are the original project Xanadu by Ted Nelson, “freeware,” and “shareware.” In the case of Open Source, the key idea is that one person (or group) writes software code, which can be then modified by another user; the result can be subsequently modified by a new user, and so on. 
+
+If we apply this model to a cultural sphere, do we get any new model of authorship? It seems to me that the models of remixing, sampling and appropriation conceptually are much richer than the Open Source idea. There are, however, two aspects of Open Source movement that make it interesting. One is the idea of license. There are approximately 30 different types of licenses in Open Source movement. [13] The licenses specify the rights and responsibilities of a person modifying the code. For instance, one license (called Gnu Public License) specifies that the programmer have to provide the copy of the new code to the community; another stipulates that the programmer can sell the new code and he does not have to share with the community, but he can’t do things to damage the community.
+
+Another idea is that of the kernel. At the “heart” of Linux operating system is its kernel - the code essential to the functioning of the system. While users add and modify different parts of Linux system, they are careful not to change the kernel in fundamental ways. [14] Thus all dialects of Linux share the common core. [15]
+
+I think that the ideas of license and of kernel can be directly applied to cultural authorship. Currently appropriation, sampling, remixing, and quoting are controlled by a set of heterogeneous and often outdated legal rules. These rules tell people what they are _not_ allowed to do with the creative works of others. Imagine now a situation where an author releases her/his work into the world accompanied by a license that will tell others both what they should not do with this work and also what they _can_ do with it (i.e., the ways in which it can be modified and re-used) Similarly we may imagine a community formed around some creative work; this community would agree on what constitutes the kernel of this work. Just as in the case of Linux, it would be assumed that while the work can be played with and endlessly modified, the users should not modify the kernel in dramatic ways. 
+
+Indeed, if music, films, books, and visual art are our _cultural software_, why not apply the ideas from software development to cultural authorship? In fact, I believe that we can already find many communities and individual works that employ the ideas of license and kernel, even though these terms are not explicitly used. One example is Jon Ippolito’s _Variable Media Initiative_. [16] Ippolito proposed that an artist who accepts variability in how her/his work will be exhibited and/or re-created in the future (which is almost inevitable in the case of net art and other software-based work) should specify what constitutes the legitimate exhibition/recreation; in short, s/he should provide the equivalent of the software license.
+
+Among the cultural projects inspired by Open Source Movement, OPUS project (2002) stands out from the rest in how it tackles with the question of authorship in computer culture. [17] Importantly, OPUS, created by Raqs Media Collective (New Delhi), is both a software package and an accompanying “theoretical package.” Thus, the theoretical ideas about authorship articulated by Raqs collective do not remain theory but are implemented in software available for everybody to use. In short, this is “software theory” at its best: theoretical ideas translated into a new kind of cultural software. 
+
+OPUS software designed to enable possible multi-user cultural collaboration in a digital network environment. In OPUS (which stands for “Open Platform for Unlimited Signification), anybody can start a new project and invite other people to download and upload media objects to the project’s area on OPUS site (it is also possible to download OPUS software itself and put it on new servers). When the author uploads a new media object (anything from a text to a piece of music), s/he can specify what modifications by others will be allowed. Subsequently, OPUS software keeps track of every new modification to this object.
+
+Each media objects archived, exhibited, and made available for transformation within OPUS carries with it data that can identify all whose who worked on it. This means that while OPUS enables collaboration, it also preserves the identity of authors/creators (no matter how big or small their contribution may be) at each stage of a work’s evolution. [18]
+
+The Raqs Collective introduces a new term “rescension” to address this type of collaborative authorship. [19] In my view, “rescension” presents a sophisticated comprise between the two extreme ideologies of digital authorship commonly invoked and used today: on the one hand, completely open model that lets everybody modify anything; on the other hand, tight control of all permissible uses of a cultural object by traditional copyright practices. 
+
+Importantly, as distribution of culture, from texts to music to videos, is increasingly moving online, economically dominant ideas about authorship and copyright in our society will be implemented in actual software that will control who can access, copy, and modify the cultural objects, and at what price. For instance, while MPEG-1 through MPEG-7 media formats focused on “compression and the coordination of different media tracks, the recent proposal for MPEG-21 focuses on digital rights management.” The authors of the proposal imagine a future “multimedia framework” where “all people on Earth take part in a network involving content providers, value adders, packages, service providers, consumers, and resellers.” Like XML, MPEG-21 consists of  a number of separate components, those very names reveal its aim to manage all the difficult issues of content creation and distribution in digital network environment through technological solutions: “Intellectual property Management and Protection,” “Rights Data Dictionary,” “Rights Expression Language.” [20] OPUS anticipates this kind of future by providing an intellectually sophisticated alternative paradigm of cultural authorship and access implemented in software. 
+
+## 9. Brand as the Author
+
+Who are the people behind Nike? Prada? Sony? Gap? Consumer brands do not make visible their design teams, engineers, stylists, writers, programmers, and other creative individuals who make their individual products and product lines. Competing in already crowded semantic space, the company wants the consumers to remember one thing only: the brand name. To bring in the names of individuals involved in creating brand products - which are numerous and which continuously change - would dissolve brand identity. Note that a company does not try to hide these names - you can find them if you want - but they are just not part of brand publicity. Unless, of course, the name involved itself represents another brand, like Rem Koolhaas or Bruce Mau. Koolhaas and Mau are brands because they function exactly like all other brands: they have big teams working on different projects, but the names of individual contributors are not made visible. A museum hires Rem Koolhaas to have a building by Rem Koolhaas - not because it wants the skills of a particular media designer, lighting designer, or an architect working for Koolhaas. The same goes for most well-known musicians, artists, and architects. In contrast to “corporate brands,” these are "individual brands." 
+
+When we think of these individual brands, we’re not supposed to also think of all the people involved in their creations. We can see here the romantic ideology with its emphasis on a solitary genius still at work. In a certain sense, corporate brands are more "progressive" in that they don’t hide (although they don’t foreground it either) the fact that everything they sell is created by collectives of individuals. And while in the last decade a number of artists’ collectives have presented themselves as corporate brands, in most case their masquerades still followed the conventions of artworld rather than of commercial brand environment. For instance, when jodi.org burst into the emerging net art scene with their Web site a number of years ago, the fact that for the first couple of years we only knew the project by the name of its URL but not the artist’s names was part of the attraction. However, eventually the names of the creators, Joan Heemskerk and Dirk Paesmans, became public. And Etoy, the most systematic among artists’ collectives simulating as brands, still has not been completely consistent in following the rules of corporate authorship. Etoy presents itself as a company which consists of  a small number of Etoy agents which go by their first names: etoy.zak, etoy.zai, and so on. Thus, it foregrounds all the individuals involved in brand management, even though they go by semi-fictional names.
+
+My aim here is not to criticize Jodi or Etoy but rather to point that high culture and consumer culture follow very different models of authorship, which makes it hard even for smartest artists to completely simulate the corporate model. Still, artist-as-anonymous-brand phenomenon that already existed before Internet became much more common on the Web, with many artists, designers and design groups choosing to focus visibility on the name of their site rather than their individual names: from Jodi and Etoy to future farmers, unclickable.com, uncontrol.com, and many others.
+
+## Conclusion
+
+The commonality of menu selection / remixing / sampling / synthesis / “open sourcing” in contemporary culture calls for a whole new critical vocabulary to adequately describe these operations, their multiple variations and combinations. One way to develop such a vocabulary is to begin correlate the terms that already exist but are limited to particular media. Electronic music theory brings to the table analysis of mixing, sampling, and synthesis; academic literary theory can also make a contribution, with its theorizations of intertext, paratext [21], and hyperlinking; the scholars of visual culture can contribute their understanding of montage, collage and appropriation. Having a critical vocabulary that can be applied across media will help us to finally accept these operations as legitimate cases of authorship, rather than exceptions. To quote Poschardt one last time, “however much quoting, sampling and stealing is done – in the end it is the old subjects that undertake their own modernization. Even an examination of technology and the conditions of productions does not rescue aesthetics from finally having to believe in the author. He just looks different.” [22]
+
+## References:
+
+[1] Lev Manovich, _The Language of New Media_ (Cambridge, Mass.: The MIT Press, 2001).
+
+[2] Roland Barthes, _Image, Music, Text_, translated by Stephen Heath (New York: Hill and Wang, 1977), 146.
+
+[3] [http://www.ea.com/eagames/games/pccd/thesims/thesims.jsp](http://www.ea.com/eagames/games/pccd/thesims/thesims.jsp).
+
+[4] Ulf Poschardt, _DJ Culture_, trans. Shaun Whiteside (London: Quartet Books Ltd, 1998), 123.
+
+[5] Ibid, 271.
+
+[6] Ibid., 273.
+
+[7] For instance, Web users are invited to remix Madonna songs at [http://madonna.acidplanet.com/default.asp?subsection=madonna](http://madonna.acidplanet.com/default.asp?subsection=madonna).
+
+[8] Poschardt, _DJ Culture_, 261.
+
+[9] Ibid., 261-262.
+
+[10] Ibid., 280.
+
+[11] To use the term of Barthes’s quote above, we can say that if modernist collage always involved a “clash” of elements, electronic and software collage also allows for “blend.”
+
+[12] Poschardt, _DJ Culture_, 252.
+
+[13] Cindy Shirky, presentation during Human Generosity Project Summit, Banff Center for the Arts, September 2001.
+
+[14] Some modification of Linux kernel becomes necessary when Linux is adapted for embedded systems which usually have less memory and less processing power than desktop PCs. See [http://www.linuxdevices.com/news/NS6362696390.html](http://www.linuxdevices.com/news/NS6362696390.html).
+
+[15] Linux community will condemn any modifications that will change the kernel in fundamental ways. See [http://slashdot.org/articles/99/02/27/076204.shtml](http://slashdot.org/articles/99/02/27/076204.shtml).
+
+[16] Ippolito is a new media artist and an Associate Curator of Media Arts at the Guggenheim Museum. For more information on _Variable Media Initiative_, see [www.guggenheim.org](www.guggenheim.org).
+
+[17] See [http://www.opuscommons.net/main.php](http://www.opuscommons.net/main.php).
+
+[18] [http://www.opuscommons.net/templates/doc/manual.html](http://www.opuscommons.net/templates/doc/manual.html).
+
+[19] See [http://www.opuscommons.net/templates/doc/manual\_left.htm](http://www.opuscommons.net/templates/doc/manual_left.htm).
+
+[20] See [http://mpeg.selt.it/](http://mpeg.selt.it/).
+
+[21] For definitions of these terms introduced by Gerard Genette, see [http://www.ht01.org/presentations/Session4b/dalgaard\_HT01/](http://www.ht01.org/presentations/Session4b/dalgaard\_HT01/html\_with\_notes/tsld006.html.
+
+[22] Poschardt, _DJ Culture_, 284.
+
+---

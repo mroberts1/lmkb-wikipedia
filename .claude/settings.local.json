@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3456)",
+      "Bash(curl -s http://localhost:3456)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3456/wiki/Digital_Cinema)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3456/wiki/Software_Studies)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3456/search?q=cinema)",
+      "Bash(curl:*)",
+      "Bash(node:*)",
+      "Bash(xargs kill:*)",
+      "Bash(python3 split_fulltext.py)",
+      "Bash(grep:*)",
+      "Bash(gh auth:*)",
+      "Bash(git add:*)",
+      "Bash(git rm:*)",
+      "Bash(rm -rf wiki-clone/.git)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
