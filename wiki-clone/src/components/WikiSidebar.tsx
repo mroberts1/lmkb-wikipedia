@@ -6,10 +6,10 @@ interface SidebarProps {
 
 export default function WikiSidebar({ categories }: SidebarProps) {
   return (
-    <nav className="w-[160px] shrink-0 text-[12.6px] pr-4" style={{ fontFamily: "sans-serif" }}>
+    <nav className="w-[160px] shrink-0 text-[15.75px] pr-4" style={{ fontFamily: "sans-serif" }}>
       {/* Main navigation */}
       <div className="mb-4">
-        <h3 className="text-[#54595d] text-[12px] font-bold mb-1 px-2">Navigation</h3>
+        <h3 className="text-[#54595d] text-[18.75px] font-bold mb-1 px-2">Navigation</h3>
         <ul className="list-none m-0 p-0">
           <li>
             <Link href="/" className="block px-2 py-0.5 text-[#0645ad] no-underline hover:underline">
@@ -31,7 +31,7 @@ export default function WikiSidebar({ categories }: SidebarProps) {
 
       {/* Categories */}
       <div className="mb-4">
-        <h3 className="text-[#54595d] text-[12px] font-bold mb-1 px-2">Categories</h3>
+        <h3 className="text-[#54595d] text-[18.75px] font-bold mb-1 px-2">Categories</h3>
         <ul className="list-none m-0 p-0">
           {categories.map((cat) => (
             <li key={cat.slug}>
@@ -48,7 +48,7 @@ export default function WikiSidebar({ categories }: SidebarProps) {
 
       {/* Topic indexes */}
       <div className="mb-4">
-        <h3 className="text-[#54595d] text-[12px] font-bold mb-1 px-2">Topic Indexes</h3>
+        <h3 className="text-[#54595d] text-[18.75px] font-bold mb-1 px-2">Topic Indexes</h3>
         <ul className="list-none m-0 p-0">
           <li>
             <Link href="/wiki/New_Media_Theory" className="block px-2 py-0.5 text-[#0645ad] no-underline hover:underline">

@@ -11,7 +11,7 @@ function SearchResults() {
 
   // Client-side search: we'll use a static index generated at build time
   return (
-    <div style={{ fontFamily: "sans-serif", fontSize: "14px" }}>
+    <div style={{ fontFamily: "sans-serif", fontSize: "17.5px" }}>
       {query ? (
         <p className="mb-4">
           Searching for <strong>&quot;{query}&quot;</strong>. For best results, browse the{" "}

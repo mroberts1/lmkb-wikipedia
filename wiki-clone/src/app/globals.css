@@ -1,9 +1,5 @@
 @import "tailwindcss";
 
-html {
-  font-size: 125%;
-}
-
 :root {
   --wiki-blue: #0645ad;
   --wiki-blue-hover: #0b0080;
@@ -21,7 +17,7 @@ body {
   background: var(--wiki-bg);
   color: #202122;
   font-family: "Linux Libertine", "Georgia", "Times", serif;
-  font-size: 14px;
+  font-size: 17.5px;
   line-height: 1.6;
 }
 
@@ -112,7 +108,7 @@ span.wikilink-missing {
 .wiki-content td {
   border: 1px solid var(--wiki-border);
   padding: 0.2em 0.4em;
-  font-size: 0.95em;
+  font-size: 1.1875em;
 }
 
 .wiki-content th {
@@ -125,7 +121,7 @@ span.wikilink-missing {
   font-family: monospace;
   background: #f8f9fa;
   padding: 1px 4px;
-  font-size: 0.9em;
+  font-size: 1.125em;
 }
 
 .wiki-content pre {
@@ -133,7 +129,7 @@ span.wikilink-missing {
   border: 1px solid #ddd;
   padding: 1em;
   overflow-x: auto;
-  font-size: 0.9em;
+  font-size: 1.125em;
 }
 
 .wiki-content strong {

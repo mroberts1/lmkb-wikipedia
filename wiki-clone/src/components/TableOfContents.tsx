@@ -16,13 +16,13 @@ export default function TableOfContents({ items }: { items: TocItem[] }) {
   return (
     <div
       className="float-none bg-[#f8f9fa] border border-[#a2a9b1] p-3 mb-4 inline-block"
-      style={{ fontFamily: "sans-serif", fontSize: "13px", minWidth: "200px" }}
+      style={{ fontFamily: "sans-serif", fontSize: "16.25px", minWidth: "200px" }}
     >
       <div className="flex items-center justify-between mb-1">
-        <span className="font-bold text-[13px]">Contents</span>
+        <span className="font-bold text-[16.25px]">Contents</span>
         <button
           onClick={() => setCollapsed(!collapsed)}
-          className="text-[#0645ad] text-[12px] bg-transparent border-none cursor-pointer hover:underline ml-2"
+          className="text-[#0645ad] text-[18.75px] bg-transparent border-none cursor-pointer hover:underline ml-2"
         >
           [{collapsed ? "show" : "hide"}]
         </button>

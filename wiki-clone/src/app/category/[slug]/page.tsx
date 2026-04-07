@@ -42,10 +42,10 @@ export default async function CategoryPage({
           >
             Category: {displayName}
           </h1>
-          <p className="mb-4 text-[14px]" style={{ fontFamily: "sans-serif" }}>
+          <p className="mb-4 text-[17.5px]" style={{ fontFamily: "sans-serif" }}>
             {categoryArticles.length} article{categoryArticles.length !== 1 ? "s" : ""} in this category.
           </p>
-          <div style={{ fontFamily: "sans-serif", fontSize: "14px" }}>
+          <div style={{ fontFamily: "sans-serif", fontSize: "17.5px" }}>
             {categoryArticles
               .sort((a, b) => a.title.localeCompare(b.title))
               .map((article) => (

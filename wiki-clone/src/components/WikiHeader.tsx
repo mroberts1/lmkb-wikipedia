@@ -22,10 +22,10 @@ export default function WikiHeader() {
         <div className="max-w-[1200px] mx-auto flex items-center justify-between px-4 py-2">
           <Link href="/" className="flex items-center gap-3 no-underline">
             <div className="flex flex-col items-center">
-              <div className="text-[15px] font-bold text-black" style={{ fontFamily: "'Linux Libertine', Georgia, serif" }}>
+              <div className="text-[18.75px] font-bold text-black" style={{ fontFamily: "'Linux Libertine', Georgia, serif" }}>
                 LMKB
               </div>
-              <div className="text-[10px] text-[#54595d] tracking-wide">
+              <div className="text-[12.5px] text-[#54595d] tracking-wide">
                 The Knowledge Base
               </div>
             </div>
@@ -55,7 +55,7 @@ export default function WikiHeader() {
       {/* Tabs */}
       <div className="bg-white border-b border-[#a2a9b1]">
         <div className="max-w-[1200px] mx-auto px-4">
-          <nav className="flex gap-0 text-[13px]" style={{ fontFamily: "sans-serif" }}>
+          <nav className="flex gap-0 text-[16.25px]" style={{ fontFamily: "sans-serif" }}>
             <span className="px-3 py-1.5 border border-[#a2a9b1] border-b-white bg-white rounded-t text-[#202122] -mb-px">
               Article
             </span>

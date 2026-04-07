@@ -133,7 +133,7 @@ export default async function ArticlePage({
 
           {/* Category breadcrumb */}
           {article.category && (
-            <div className="text-[12px] text-[#54595d] mb-3" style={{ fontFamily: "sans-serif" }}>
+            <div className="text-[18.75px] text-[#54595d] mb-3" style={{ fontFamily: "sans-serif" }}>
               Category: <span className="text-[#0645ad]">{article.category}</span>
             </div>
           )}
@@ -142,9 +142,9 @@ export default async function ArticlePage({
           {!isSource && sourceLinks.length > 0 && (
             <div
               className="bg-[#eaf3fb] border border-[#a2a9b1] px-4 py-3 mb-4 rounded-sm"
-              style={{ fontFamily: "sans-serif", fontSize: "13px" }}
+              style={{ fontFamily: "sans-serif", fontSize: "16.25px" }}
             >
-              <span className="font-bold text-[13px]">Full-text source articles: </span>
+              <span className="font-bold text-[16.25px]">Full-text source articles: </span>
               {sourceLinks.map((s, i) => (
                 <span key={s.slug}>
                   {i > 0 && <span className="text-[#54595d]"> · </span>}
@@ -160,9 +160,9 @@ export default async function ArticlePage({
           {isSource && conceptBacklinks.length > 0 && (
             <div
               className="bg-[#eaf3fb] border border-[#a2a9b1] px-4 py-3 mb-4 rounded-sm"
-              style={{ fontFamily: "sans-serif", fontSize: "13px" }}
+              style={{ fontFamily: "sans-serif", fontSize: "16.25px" }}
             >
-              <span className="font-bold text-[13px]">Main article{conceptBacklinks.length > 1 ? "s" : ""}: </span>
+              <span className="font-bold text-[16.25px]">Main article{conceptBacklinks.length > 1 ? "s" : ""}: </span>
               {conceptBacklinks.map((c, i) => (
                 <span key={c.slug}>
                   {i > 0 && <span className="text-[#54595d]"> · </span>}
@@ -178,10 +178,10 @@ export default async function ArticlePage({
           {isSource && fulltextArticle && (
             <div
               className="bg-[#e8f5e9] border border-[#4caf50] px-4 py-3 mb-4 rounded-sm"
-              style={{ fontFamily: "sans-serif", fontSize: "13px" }}
+              style={{ fontFamily: "sans-serif", fontSize: "16.25px" }}
             >
-              <span className="text-[13px]">📄 </span>
-              <a href={`/wiki/${fulltextArticle.slug}`} className="text-[#0645ad] no-underline hover:underline font-bold text-[14px]">
+              <span className="text-[16.25px]">📄 </span>
+              <a href={`/wiki/${fulltextArticle.slug}`} className="text-[#0645ad] no-underline hover:underline font-bold text-[17.5px]">
                 Read full text →
               </a>
             </div>
@@ -191,7 +191,7 @@ export default async function ArticlePage({
           {isSource && externalUrl && (
             <div
               className="bg-[#f6efe6] border border-[#a2a9b1] px-4 py-3 mb-4 rounded-sm"
-              style={{ fontFamily: "sans-serif", fontSize: "13px" }}
+              style={{ fontFamily: "sans-serif", fontSize: "16.25px" }}
             >
               <a href={externalUrl} target="_blank" rel="noopener noreferrer" className="text-[#0645ad] no-underline hover:underline font-bold">
                 Read original article ↗
@@ -215,20 +215,20 @@ export default async function ArticlePage({
             {infoItems.length > 0 && (
               <div
                 className="w-[240px] shrink-0"
-                style={{ fontFamily: "sans-serif", fontSize: "13px" }}
+                style={{ fontFamily: "sans-serif", fontSize: "16.25px" }}
               >
                 <div className="border border-[#a2a9b1] bg-[#f8f9fa] mb-4">
-                  <div className="bg-[#cee0f2] px-3 py-2 font-bold text-center text-[14px]">
+                  <div className="bg-[#cee0f2] px-3 py-2 font-bold text-center text-[17.5px]">
                     {article.title}
                   </div>
                   <table className="w-full">
                     <tbody>
                       {infoItems.map((item) => (
                         <tr key={item.label} className="border-t border-[#a2a9b1]">
-                          <th className="bg-[#e4e8ee] px-2 py-1.5 text-left font-bold text-[12px] w-[80px] align-top">
+                          <th className="bg-[#e4e8ee] px-2 py-1.5 text-left font-bold text-[18.75px] w-[80px] align-top">
                             {item.label}
                           </th>
-                          <td className="px-2 py-1.5 text-[12px]">{item.value}</td>
+                          <td className="px-2 py-1.5 text-[18.75px]">{item.value}</td>
                         </tr>
                       ))}
                     </tbody>
@@ -238,13 +238,13 @@ export default async function ArticlePage({
                 {/* Source articles in infobox */}
                 {!isSource && sourceLinks.length > 0 && (
                   <div className="border border-[#a2a9b1] bg-[#f8f9fa] mb-4">
-                    <div className="bg-[#d4e8c2] px-3 py-2 font-bold text-center text-[13px]">
+                    <div className="bg-[#d4e8c2] px-3 py-2 font-bold text-center text-[16.25px]">
                       Full-Text Articles
                     </div>
                     <div className="p-2">
                       {sourceLinks.map((s) => (
                         <div key={s.slug} className="py-0.5">
-                          <a href={`/wiki/${s.slug}`} className="text-[#0645ad] no-underline hover:underline text-[12px]">
+                          <a href={`/wiki/${s.slug}`} className="text-[#0645ad] no-underline hover:underline text-[18.75px]">
                             {s.name}
                           </a>
                         </div>
@@ -256,7 +256,7 @@ export default async function ArticlePage({
                 {/* Related articles */}
                 {related && related.length > 0 && (
                   <div className="border border-[#a2a9b1] bg-[#f8f9fa]">
-                    <div className="bg-[#cee0f2] px-3 py-2 font-bold text-center text-[13px]">
+                    <div className="bg-[#cee0f2] px-3 py-2 font-bold text-center text-[16.25px]">
                       Related Articles
                     </div>
                     <div className="p-2">
@@ -267,7 +267,7 @@ export default async function ArticlePage({
                           .replace(/\s+/g, "_");
                         return (
                           <div key={i} className="py-0.5">
-                            <a href={`/wiki/${rSlug}`} className="text-[#0645ad] no-underline hover:underline text-[12px]">
+                            <a href={`/wiki/${rSlug}`} className="text-[#0645ad] no-underline hover:underline text-[18.75px]">
                               {name}
                             </a>
                           </div>

@@ -33,7 +33,7 @@ export default async function Home() {
             Lev Manovich Knowledge Base
           </h1>
 
-          <p className="mb-4" style={{ fontFamily: "sans-serif", fontSize: "14px" }}>
+          <p className="mb-4" style={{ fontFamily: "sans-serif", fontSize: "17.5px" }}>
             Welcome to the <strong>Lev Manovich Knowledge Base</strong> (LMKB), a comprehensive wiki covering
             Lev Manovich&apos;s writings on new media theory, digital cinema, software studies, and cultural analytics
             from 1991 to 2008. The wiki contains <strong>{articles.length}</strong> articles across{" "}
@@ -48,7 +48,7 @@ export default async function Home() {
             >
               Core Concepts ({concepts.length})
             </h2>
-            <div className="columns-2 gap-4" style={{ fontFamily: "sans-serif", fontSize: "13px" }}>
+            <div className="columns-2 gap-4" style={{ fontFamily: "sans-serif", fontSize: "16.25px" }}>
               {concepts
                 .sort((a, b) => a.title.localeCompare(b.title))
                 .map((article) => (
@@ -69,7 +69,7 @@ export default async function Home() {
             >
               Topic Indexes ({indexes.length})
             </h2>
-            <div style={{ fontFamily: "sans-serif", fontSize: "13px" }}>
+            <div style={{ fontFamily: "sans-serif", fontSize: "16.25px" }}>
               {indexes
                 .sort((a, b) => a.title.localeCompare(b.title))
                 .map((article) => (
@@ -90,7 +90,7 @@ export default async function Home() {
             >
               Source Summaries ({sources.length})
             </h2>
-            <div style={{ fontFamily: "sans-serif", fontSize: "13px" }}>
+            <div style={{ fontFamily: "sans-serif", fontSize: "16.25px" }}>
               <table className="border-collapse w-full">
                 <thead>
                   <tr>
