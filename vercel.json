@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd wiki-clone && npm install && npm run build",
+  "outputDirectory": "wiki-clone/out",
+  "framework": null
+}
