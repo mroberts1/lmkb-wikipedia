@@ -18,7 +18,10 @@
       "Bash(git add:*)",
       "Bash(git rm:*)",
       "Bash(rm -rf wiki-clone/.git)",
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Bash(gh repo:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   }
 }
